@@ -55,8 +55,8 @@ hr {
 }
 #nav-desktop {
     position: absolute;
-	right: 6px;
-    top: 15px;
+	right: 5px;
+    top: 10px;
 }
 
 #nav-desktop ul li {
